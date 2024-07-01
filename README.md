@@ -43,7 +43,7 @@ if you have found the people she met , let's find the city beacause it's our fou
 ---------
 The Fith and Final Clue is that she met this person in this city and got a key that has the city name in it , find it's value and who does it belong to.
 
-if you have gotten this far , you have found the the secret code.
+if you have gotten this far , you have found the the secret code and have found katie.
 ---------
 
 Fatima F.
