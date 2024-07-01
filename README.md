@@ -1,4 +1,6 @@
 # DetectiveSQLGame
+
+<img src="image.png" alt="HomePage" style="width:400px;">
 Leah has discovered a secret map containing clues that  has a code name that opens the legendary lost city of gold. The map belonged to Katie, a world traveler who collected memories and artifacts from her journeys. Unbeknownst to her, Katie possessed the invaluable key to the lost city.
 
 As Leah, the detective, your mission is to uncover Katie's whereabouts and solve the mystery of the lost city. Follow the clues, track down Katie, and unlock the secrets to find the gold.
